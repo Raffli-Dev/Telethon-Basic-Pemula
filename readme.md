@@ -6,7 +6,9 @@ sebelum itu saya akan menjelaskan apa itu telethon, telethon adalah pustaka asyn
 
 Tanpa basa basi langsung masuk kedalam sebuah configurasinya, install dulu di terminal :
 
-```bash pip install telethon```
+```
+pip install telethon
+```
 
 Kalian bisa masukan API KEY Dari telegram kalian
 
