@@ -10,7 +10,7 @@ Tanpa basa basi langsung masuk kedalam sebuah configurasinya, install dulu di te
 pip install telethon
 ```
 
-Kalian bisa masukan API KEY Dari telegram kalian
+Kalian bisa masukan API KEY Dari telegram kalian, bisa daftar terlebih dahulu di https://my.telegram.org
 
 di source code....
 
