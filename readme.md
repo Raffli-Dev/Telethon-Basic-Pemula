@@ -1,4 +1,4 @@
-#Kirim chat telegram menggunakan library telethon python
+# Kirim chat telegram menggunakan library telethon python
 
 Di sini saya akan memberikan sebuah source code tentang teleton sebuah library python yang digunakan untuk telegram, dan disini juga bisa digunakan untuk BOT Telegram.
 
